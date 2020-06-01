@@ -26,23 +26,7 @@
 
 
 ---
-
 <div class="contact">
     <a href="https://github.com/mahmednabil109"><img src="./github-brands.svg" class="i"/></a>
     <a href="https://www.linkedin.com/in/mahmed-nabil-452383140/"><img src="./linkedin-brands.svg" class="i"/></a>
 </div>
-
-<style>
-    .contact{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .i{
-        width: 20px;
-        margin: 6px;
-    }
-    .i:hover{
-        cursor: pointer;
-    }
-</style>
