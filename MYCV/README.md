@@ -26,7 +26,8 @@
 
 
 ---
-<div class="contact">
-    <a href="https://github.com/mahmednabil109"><img src="./github-brands.svg" class="i"/></a>
-    <a href="https://www.linkedin.com/in/mahmed-nabil-452383140/"><img src="./linkedin-brands.svg" class="i"/></a>
+
+<div class="contact" style="display:flex; justify-content:center;">
+    <a href="https://github.com/mahmednabil109"><img src="./github-brands.svg" width="60" style="margin:9px"/></a>
+    <a href="https://www.linkedin.com/in/mahmed-nabil-452383140/"><img src="./linkedin-brands.svg" width="60" style="margin:9px"/></a>
 </div>
